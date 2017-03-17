@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script src="main.min.js"></script>
+	<script>
+	var script = document.createElement('script');
+	function callback (data) {
+		console.log(data);
+	}
+	// script.src = 'http://tingapi.ting.baidu.com/v1/restserver/ting?callback=callback&method=baidu.ting.song.play&songid=877578';
+	script.src = 'http://yinyueshiting.baidu.com/data2/music/42783748/42783748.mp3?callback=callback&xcode=b9cc0f6421eafddb08a65907a49a17b0'
+	document.body.appendChild(script)
+	</script>
+</body>
+</html>
