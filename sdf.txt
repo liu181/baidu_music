@@ -1,0 +1,28 @@
+有一个排行榜列表rankList 是一个数组 有十个 排行榜
+每个排行榜 内的song_list 是一个数组  有10个歌曲对象
+每个歌曲对象
+
+专辑id  album_id: 124141242  
+、、歌曲排名  labum_no: 5;
+专辑名字  album_title: 
+歌曲名字  title
+银色  toneid： 0	
+艺术家id   all_artist_id
+艺术家 id  all_artist_ting_uid
+           all_rate： "64,128,256,320,flac"
+area ： 0
+艺术家id   artist_id
+艺术家名字  artist_name：李玉刚
+作者     author
+change： 0
+发布时间 ： publishtime
+copy_type: '1'
+country:　内地
+点击　　ｈｏｔ：　962517
+language: 国语
+排名： rank
+小图  pic_small 
+排名变化 rank_change
+
+歌曲id   song_id 276867440
+种类  style  流行
