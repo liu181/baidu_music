@@ -2,10 +2,10 @@
 * @Author: Administrator
 * @Date:   2017-02-19 10:01:44
 * @Last Modified by:   Administrator
-* @Last Modified time: 2017-02-19 11:28:18
+* @Last Modified time: 2017-03-18 14:31:29
 */
 
-'use strict';
+'use strict'; 
 // function ajax(opt) {
 //  9         opt = opt || {};
 // 10         opt.method = opt.method.toUpperCase() || 'POST';

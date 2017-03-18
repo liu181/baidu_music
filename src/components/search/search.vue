@@ -21,7 +21,7 @@
             console.log(res);
           }
           
-        })
+        }) 
       }
     }
   }

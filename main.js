@@ -2,7 +2,7 @@
 * @Author: Administrator
 * @Date:   2017-03-16 20:34:59
 * @Last Modified by:   Administrator
-* @Last Modified time: 2017-03-17 18:49:55
+* @Last Modified time: 2017-03-18 14:31:40
 */ 
 
 'use strict';
@@ -14,7 +14,7 @@ import rank from './src/components/rank/rank.vue';
 import collection from './src/components/collection/collection.vue';
 import recommend from './src/components/recommend/recommend.vue';
 
-
+ 
 import VueRouter from 'vue-router';
 import VueResource from 'vue-resource';
 

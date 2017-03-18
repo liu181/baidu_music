@@ -20,7 +20,7 @@
             <span class="info"><span class="text" @click="play(musicList[index].song_id)">详情</span></span>
           </div>
         </div>
-        </li>
+        </li> 
       </ul>
     </div>
   </div>

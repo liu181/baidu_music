@@ -11,7 +11,7 @@
   import search from '../search/search.vue';
   export default {
     data() { 
-      return {
+      return { 
         msg: "囧囧~~~"
       }
     },
